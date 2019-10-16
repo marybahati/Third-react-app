@@ -6,7 +6,7 @@ class Intouch extends React.Component {
     return (
         <section id="three">
         <h2>Get In Touch</h2>
-        <p>if you would like to enroll as a rower or kayakist fill you deatils below</p>
+        <p>if you would like to enroll as a rower or kayakist fill your deatils below</p>
         <div className="row">
             <div className="col-8 col-12-small">
                 <form method="post" action="#">
